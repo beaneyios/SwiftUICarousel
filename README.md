@@ -1,4 +1,4 @@
-# UnflowCarousel
+# SwiftUI Carousel
 
 This package allows the consumer to pass in a series of SwiftUI views, that can then be skipped/swiped along.
 
